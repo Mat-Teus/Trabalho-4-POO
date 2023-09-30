@@ -1,3 +1,0 @@
-Minecraft 2d com a aplicação do padrão de projeto memento para salvar os estados.
-Pressione a tecla S para salvar o estado atual e em seguida pressione a tecla Backspace para retornar o último estado salvo
-OBS:Caso o jogo não abrir de primeira apenas minimize e maximize a tela
